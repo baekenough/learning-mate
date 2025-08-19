@@ -12,9 +12,8 @@
 - day002. 문법 - 제어문(if, for, switch, defer)(https://baekenough.oopy.io/2517ecd4-3d73-80e6-abd5-cda3844ab937)
 - day003. 문법 - pointer, struct, array, slice(https://baekenough.oopy.io/2517ecd4-3d73-80c5-a309-ef2e4142bd7b)
 - day004. 문법 - maps, functions(https://baekenough.oopy.io/2527ecd4-3d73-80f4-a46d-cd364f5b8737)
-- day005. 문법 - methods, interfaces(https://go.dev/tour/methods/1)
+- day005. 문법 - methods, interfaces(https://baekenough.oopy.io/2537ecd4-3d73-80c5-bec9-d1e262739561)
 
-## 4. 과제(write by Teacher)
 ## 4. 과제(write by Teacher)
 - **day005: 도형의 넓이 계산하기**
   1. `Shape`라는 이름의 인터페이스를 정의하고, 이 인터페이스는 `area() float64` 메서드를 가져야 합니다.
