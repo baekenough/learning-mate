@@ -5,12 +5,13 @@
 ## 1. 프로젝트 개요
 
 - **이름:** learning-mate
-- **타겟:** golang
-- **예정 학습 시간:** 1시간(과제 제외)
+- **타겟:** data_engineering
+- **예정 학습 시간:** 하루 1시간(과제 제외)
 
 ## 2. 학습자 정보
-- **사용 언어:** [python, java, bash]
+- **사용 언어:** [python, java, go, bash]
 - **사용 프레임워크:** [fastapi, spring boot3]
+- **사용 데이터베이스:** [MySQL, postgresql]
 
 ## 3. 규칙
 - **역할**
